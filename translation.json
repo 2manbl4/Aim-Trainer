@@ -1,0 +1,38 @@
+{
+    "_Draw":{
+      "EN" : "Draw",
+      "RU" : "Ничья"
+    },
+    "_Lose":{
+      "EN" : "Your lose xD",
+      "RU" : "Вы неудачник xD"
+    },
+    "_Win":{
+      "EN" : "Your win ...",
+      "RU" : "Вы победили ..."
+    },
+    "_NewGame":{
+      "EN" : "New game",
+      "RU" : "Новая игра"
+    },
+    "_Title":{
+      "EN" : "Aim trainer",
+      "RU" : "Тренеровка аима"
+    },
+    "_GameIi":{
+      "EN" : "Against ai",
+      "RU" : "Против ИИ"
+    },
+    "_GameTwo":{
+      "EN" : "For two",
+      "RU" : "На двоих"
+    },
+    "_GameTwoOnline":{
+      "EN" : "Online",
+      "RU" : "Онлайн"
+    },
+    "_GameTwoDisply":{
+      "EN" : "On one screen",
+      "RU" : "На одном экране"
+    }
+}
